@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="JSD-XVII Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Jashaswi Dhal</h1>
 
 <h3 align="center">
