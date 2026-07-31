@@ -18,8 +18,6 @@ SAP ABAP Cloud Developer | SAP Fiori | RAP | Data Analyst | Python Developer
 
 ## 🚀 Technologies & Tools
 
-## 🚀 Technologies & Tools
-
 | Category | Technologies |
 |----------|--------------|
 | 💼 SAP | ABAP Cloud, RAP, CDS Views, SAP Fiori Elements, OData V4, Eclipse ADT |
