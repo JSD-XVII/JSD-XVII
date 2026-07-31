@@ -12,7 +12,7 @@ SAP ABAP Cloud Developer | SAP Fiori | RAP | Data Analyst | Python Developer
 - 💼 Interested in SAP Fiori and Enterprise Application Development
 - 📊 Passionate about Data Analytics
 - 💻 Love solving real-world problems with technology
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **your-jashaswidhal17@gmail.com**
 
 ---
 
