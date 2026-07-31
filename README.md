@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jashaswi Dhal</h1>
 
-<!--
-**JSD-XVII/JSD-XVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+SAP ABAP Cloud Developer | SAP Fiori | RAP | Data Analyst | Python Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **SAP ABAP Cloud & RAP**
+- 💼 Interested in SAP Fiori and Enterprise Application Development
+- 📊 Passionate about Data Analytics
+- 💻 Love solving real-world problems with technology
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🚀 Technologies & Tools
+
+## 🚀 Technologies & Tools
+
+| Category | Technologies |
+|----------|--------------|
+| 💼 SAP | ABAP Cloud, RAP, CDS Views, SAP Fiori Elements, OData V4, Eclipse ADT |
+| 💻 Programming | Python, SQL, JavaScript, HTML5, CSS3 |
+| 📊 Data Analytics | Pandas, NumPy, Matplotlib, Seaborn, Microsoft Excel, Power BI |
+| 🛠️ Tools | Git, GitHub, VS Code, Jupyter Notebook |
+
+---
+
+## 📌 Featured Projects
+
+### 🌦 Meteorological Weather Data Web Application
+
+Real-time weather dashboard with interactive charts and maps.
+
+### 📦 Campus Lost & Found Tracker
+
+SAP RAP application using ABAP Cloud & Fiori.
+
+### 🏢 Vendor Master Approval Workflow
+
+Enterprise approval application using RAP.
+
+### 📊 Uber Ride Data Analysis
+
+Python project for data visualization and insights.
+
+---
+
+⭐ Thanks for visiting my profile!
